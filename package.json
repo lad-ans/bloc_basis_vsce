@@ -1,13 +1,31 @@
 {
     "name": "simple-rx-bloc",
-    "displayName": "simple_rx_bloc",
+    "displayName": "Simple RxBLoC",
     "description": "A Simple Scaffold for Dart BLoC implementation on RxDart",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.66.0"
     },
+    "author": {
+        "name": "Ladino Anselmo"
+    },
+    "homepage": "https://github.com/layndev/simple_rxbloc_vscode_extension",
+    "publisher": "ladinoanselmo",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/layndev/simple_rxbloc_vscode_extension.git"
+    },
     "categories": [
         "Snippets"
+    ],
+    "bugs": {
+        "url": "https://github.com/layndev/simple_rxbloc_vscode_extension.git/issues"
+    },
+    "keywords": [
+        "rxbloc",
+        "flutter_bloc",
+        "dart_bloc",
+        "simple_rx_bloc"
     ],
     "contributes": {
         "snippets": [
