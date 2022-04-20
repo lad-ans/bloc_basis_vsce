@@ -2,7 +2,7 @@
     "name": "simple-rx-bloc",
     "displayName": "Simple RxBLoC",
     "description": "A Simple Scaffold for Dart BLoC implementation on RxDart",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.66.0"
     },
