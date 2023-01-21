@@ -1,8 +1,3 @@
-# bloc-basis README
-npm install -g @vscode/vsce
-
-$ cd myExtension
-$ vsce package
-# myExtension.vsix generated
-$ vsce publish
-# <publisherID>.myExtension published to VS Code Marketplace
+# BLoC Basis
+---
+## A simple extension for Flutter BLoC Basis scaffolding

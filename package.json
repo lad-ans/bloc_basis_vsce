@@ -1,9 +1,9 @@
 {
     "name": "bloc-basis",
     "displayName": "Flutter BLoC Basis",
-    "description": "A Simple Scaffold for Flutter BLoC",
+    "description": "A simple extension for Flutter BLoC Basis scaffolding",
     "icon": "images/logo.png",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "engines": {
         "vscode": "^1.70.0"
     },

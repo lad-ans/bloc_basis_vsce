@@ -42,7 +42,7 @@
 			"",
 			"    /// Put your logic here!",
 			"",
-			"    }).listen((value) => state.add(value);",
+			"    }).listen((value) => state.add(value));",
 			"  }",
 			"",
 			"  @override",
