@@ -21,8 +21,8 @@
 		],
 		"description": "A Flutter Test Based on Arrange, Act and Assert"
 	},
-	"Rx BLoC": {
-		"prefix": "rxbloc",
+	"BLoC Basis": {
+		"prefix": "bbasis",
 		"body": [
 			"import 'dart:async';",
 			"",
@@ -42,7 +42,7 @@
 			"",
 			"    /// Put your logic here!",
 			"",
-			"    }).listen((value) => state.add(value as BlocState<$0Bloc>));",
+			"    }).listen((value) => state.add(value);",
 			"  }",
 			"",
 			"  @override",
@@ -65,6 +65,6 @@
 			"class $0ErrorState extends BlocState<$0Bloc> {}",
 			"class $0LoadedState extends BlocState<$0Bloc> {}",
 		],
-        "description": "A Simple Dart BLoC Scaffold"
+        "description": "A Simple Flutter BLoC Scaffold"
 	}
 }
