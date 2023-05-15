@@ -72,7 +72,7 @@
 	"BLoC Basis Builder": {
 		"prefix": "bbb",
 		"body": [
-			"BlocbasisBuilder<$1>(",
+			"BlocBasisBuilder<$1>(",
 			"  listenState: $2,",
 			"  defaultChild: const Center(child: CircularProgressIndicator()),",
 			"  blocBuilder: (context, state) {",

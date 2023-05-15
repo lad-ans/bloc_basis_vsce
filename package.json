@@ -3,7 +3,7 @@
     "displayName": "Flutter BLoC Basis",
     "description": "A simple extension for Flutter BLoC Basis scaffolding",
     "icon": "images/logo.png",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.70.0"
     },
